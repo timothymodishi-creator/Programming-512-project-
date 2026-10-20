@@ -1,0 +1,6 @@
+# Smart Campus Resource Booking System
+# Python 3.8+ required. All dependencies are part of the standard library.
+# tkinter (GUI)
+# sqlite3 (database)
+# datetime
+# typing
